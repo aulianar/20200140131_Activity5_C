@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/PAM/Activity1/ConstraintLayout/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/PAM/Activity1/ConstraintLayout/app/src/main/res/layout/activity_form_pendaftaran.xml" value="0.22" />
+        <entry key="..\:/PAM/Activity1/ConstraintLayout/app/src/main/res/layout/activity_hasil.xml" value="0.22" />
+        <entry key="..\:/PAM/Activity1/ConstraintLayout/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/PAM/Activity1/ConstraintLayout/app/src/main/res/layout/activity_lihat_data.xml" value="0.25" />
+        <entry key="..\:/PAM/Activity1/ConstraintLayout/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/PAM/Activity1/ConstraintLayout/app/src/main/res/layout/item_listview.xml" value="0.2" />
+        <entry key="..\:/PAM/Activity1/ConstraintLayout/app/src/main/res/menu/menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/PAM/Activity1/ConstraintLayout/app/src/main/res/menu/popup_menu.xml" value="0.25" />
         <entry key="..\:/PAM/ConstraintLayout/app/src/main/res/layout/activity_main.xml" value="0.15" />
       </map>
     </option>
